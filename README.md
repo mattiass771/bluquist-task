@@ -1,6 +1,26 @@
-# Getting Started with Create React App
+# Button Component Project for Bluquist
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a test project for creation of a Button Component.
+
+## Props
+### Size
+- small
+- medium (default)
+- large
+
+### Color
+- red
+- green (default)
+- gray
+- blue
+
+### Variant
+- default
+- toggle
+
+### Fill
+- default
+- outline
 
 ## Available Scripts
 
