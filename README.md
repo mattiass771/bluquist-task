@@ -1,6 +1,6 @@
-# Button Component Project for Bluquist
+# Button Component Project
 
-This is a test project for creation of a Button Component.
+This is a project for creation of a Button Component.
 
 ## Props
 ### Size
