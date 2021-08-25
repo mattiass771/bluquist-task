@@ -1,0 +1,163 @@
+.default {
+    margin: 0.3rem;
+    border: 0px;
+    font-weight: 550;
+    cursor: pointer;
+}
+
+.default:active {
+    filter: brightness(0.85);
+}
+
+.medium {
+    padding: 0.8rem 1.2rem;
+    font-size: 1rem;
+    border-radius: 1.5rem;
+    letter-spacing: 0.1rem;
+    height: 3rem;
+}
+
+.small {
+    padding: 0.5rem 0.9rem;
+    font-size: 0.7rem;
+    border-radius: 1rem;
+    letter-spacing: 0.07rem;
+    height: 2.1rem;
+}
+
+.large {
+    padding: 1.2rem 1.6rem;
+    font-size: 1.4rem;
+    border-radius: 2rem;
+    letter-spacing: 0.15rem;
+    height: 4.2rem;
+}
+
+.green { 
+    background-color: #22D486;
+}
+
+.green:hover {
+    background-color: #1BE38B;
+}
+
+.outline-green {
+    color: #22D486;
+    background-color: whitesmoke;
+    border: 1px solid #22D486;
+}
+
+.outline-green:hover {
+    background-color: #daece4;
+}
+
+.red {
+    background-color: #FF4081;
+    color: whitesmoke;
+}
+
+.red:hover {
+    background-color: #ff528c;
+}
+
+.outline-red {
+    color: #FF4081;
+    background-color: whitesmoke;
+    border: 1px solid #FF4081;
+}
+
+.outline-red:hover {
+    background-color: #e9d5dc;
+}
+
+.gray {
+    background-color: #323C46;
+    color: whitesmoke;
+}
+
+.gray:hover {
+    background-color: #3b4652;
+}
+
+.outline-gray {
+    color: #323C46;
+    background-color: whitesmoke;
+    border: 1px solid #323C46;
+}
+
+.outline-gray:hover {
+    background-color: #dedce4;
+}
+
+.blue {
+    background-color: #02B8FA;
+    color: whitesmoke;
+}
+
+.blue:hover {
+    background-color: #18c1ff;
+}
+
+.outline-blue {
+    color: #02B8FA;
+    background-color: whitesmoke;
+    border: 1px solid #02B8FA;
+}
+
+.outline-blue:hover {
+    background-color: #cdf2ff;
+}
+
+.toggle-small {
+    padding: 0.2rem 0.3rem;
+    width: 3.5rem;
+}
+
+.toggle-medium {
+    padding: 0.2rem 0.5rem;
+    width: 6.5rem;
+}
+
+.toggle-green {
+    fill: #daece4;
+    stroke-width: 2
+}
+
+.outline-toggle-green {
+    fill: #22D486;
+    stroke-width: 2
+}
+
+.toggle-red {
+    fill: #e9d5dc;
+    stroke-width: 2
+}
+
+.outline-toggle-red {
+    fill: #FF4081;
+    stroke-width: 2
+}
+
+.toggle-gray {
+    fill: #dedce4;
+    stroke-width: 2
+}
+
+.outline-toggle-gray {
+    fill: #323C46;
+    stroke-width: 2
+}
+
+.toggle-blue {
+    fill: #cdf2ff;
+    stroke-width: 2
+}
+
+.outline-toggle-blue {
+    fill: #02B8FA;
+    stroke-width: 2
+}
+
+.circle {
+    width: 5rem;
+}
